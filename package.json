@@ -1,25 +1,24 @@
 {
-  "name": "sit725-2022-t1-prac3",
+  "name": "practicalweek5",
   "version": "1.0.0",
-  "description": "week 5 prac for SIT 725 2022",
+  "description": "Week 5 Practical",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HetMistry222330771/SIT725-t2-prac5"
+    "url": "git+https://github.com/abatool-abatool/Practical_five_testing.git"
   },
   "keywords": [
-    "Express",
-    "NodeJs"
+    "express"
   ],
-  "author": "HET Mistry",
+  "author": "Amna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HetMistry222330771/SIT725-t2-prac5/issues"
+    "url": "https://github.com/abatool-abatool/Practical_five_testing/issues"
   },
-  "homepage": "https://github.com/HetMistry222330771/SIT725-t2-prac5#readme",
+  "homepage": "https://github.com/abatool-abatool/Practical_five_testing#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
